@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">maprodClicker</string>
+    <string name="increase">Increase</string>
+    <string name="counter">Counter</string>
+    <string name="activity_start">Start Activity</string>
+    <string name="activity_pause">Pause Activity</string>
+    <string name="activity_destroy">Destroy Activity</string>
+    <string name="activity_resume">Resume Activity</string>
+    <string name="activity_stop">Stop Activity</string>
+    <string name="activity_restart">Restart Activity</string>
+    <string name="activity_create">Create Activity</string>
+</resources>
